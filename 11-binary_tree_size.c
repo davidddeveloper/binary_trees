@@ -21,7 +21,7 @@ size_t binary_tree_size(const binary_tree_t *tree)
 }
 
 /**
- * calc_size: traverse a list to calculate it size
+ * calc_size - traverse a list to calculate it size
  * using preorder
  *
  * @tree: a pointer to the root node
